@@ -13,7 +13,7 @@ import random
 # model = tf.keras.models.load_model('model.h5')
 
 # Load the model
-model = YOLO('/Users/sudarshanc/best.pt')
+model = YOLO('best.pt')
 
 
 # Define the classes or labels for your predictions
